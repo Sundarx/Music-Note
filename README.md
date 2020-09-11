@@ -1,4 +1,4 @@
-# NoteADT
+# Music-Note
 
 Program allows user to set and retrieve the length of a note and the value of the note.
 
